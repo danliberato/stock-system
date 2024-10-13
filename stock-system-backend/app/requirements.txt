@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+starlette
+pydantic
+typing_extensions
+pydantic_core
+annotated_types
+anyio
+sniffio

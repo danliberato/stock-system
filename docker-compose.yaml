@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  mock-api:
+    image: typicode/json-server
+    ports:
+      - "3001:3000"
+    volumes:
+      - ./mock-data/db.json:/data/db.json
+    command: ["--watch", "/data/db.json", "--port", "3000"]

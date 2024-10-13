@@ -1,0 +1,27 @@
+{
+    "total": 2,
+    "data": [
+      {
+        "id": 5798975,
+        "quantity": 210,
+        "url": "https://investidor10.com.br/acoes/wege3/",
+        "ticker_name": "WEGE3",
+        "ticker": "<span class='hidden'>WEGE3</span>\n<a class='ticker_link' target='_blank' href='https://investidor10.com.br/acoes/wege3/'>\n<span class='image'>\n<span class='border'><img src='https://investidor10.com.br/storage/companies/66ad4109e41c8.jpg' style='' loading='lazy'></span><div class='name'>WEGE3</div>\n</span>\n</a>",
+        "avg_price": 36.75,
+        "current_price": 54.17,
+        "appreciation": 47.38,
+        "avg_rating": "<i class='fas fa-fw fa-star' style='color: #D3B583'></i><i class='fas fa-fw fa-star' style='color: #D3B583'></i><i class='fas fa-fw fa-star' style='color: #D3B583'></i><i class='fas fa-fw fa-star' style='color: #D3B583'></i><i class='fas fa-fw fa-star' style='color: #D3B583'></i>"
+      },
+      {
+        "id": 5956826,
+        "quantity": 289,
+        "url": "https://investidor10.com.br/acoes/itub4/",
+        "ticker_name": "ITUB4",
+        "ticker": "<span class='hidden'>ITUB4</span>\n<a class='ticker_link' target='_blank' href='https://investidor10.com.br/acoes/itub4/'>\n<span class='image'>\n<span class='border'><img src='https://investidor10.com.br/storage/companies/66ace9528ffb2.jpg' style='' loading='lazy'></span><div class='name'>ITUB4</div>\n</span>\n</a>",
+        "avg_price": 32.56,
+        "current_price": 34.63,
+        "appreciation": 6.36,
+        "avg_rating": "<i class='fas fa-fw fa-star' style='color: #D3B583'></i><i class='fas fa-fw fa-star' style='color: #D3B583'></i><i class='fas fa-fw fa-star' style='color: #D3B583'></i><i class='fas fa-fw fa-star' style='color: #D3B583'></i><i class='fas fa-fw fa-star' style='color: #D3B583'></i>"
+      }
+    ]
+  }
